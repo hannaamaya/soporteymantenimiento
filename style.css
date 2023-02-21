@@ -1,0 +1,35 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+  text-align: center;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+button{
+  height: 50px;
+  font-size: 20px;
+  width: 30px;
+  border: none;
+  background-color: rgba(0,139,139);
+  color:antiquewhite;
+  margin:2px
+}
+
+#display{
+  text-align: center;
+  border:none;
+  width: 100%;
+  background-color: rgb(30, 47, 86);
+  height: 30px;
+  color: rgb(240,248,255);
+}
+
+.equal, .zero{
+  width: 64px;
+}
