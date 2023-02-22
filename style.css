@@ -7,14 +7,14 @@ body{  text-align: center;
    align-items: center; 
     justify-content: center;  
     height: 100vh; 
-     background: rgba(11, 104, 86, 0.5);
+     background: rgba(202, 180, 206, 0.5);
     } 
     #calculator{  
       max-width: 360px; 
-       background-color: rgb(11, 104, 86); 
+       background-color: rgb(125, 67, 143); 
         border-radius: 15px; 
          padding: 20px; 
-          box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+          box-shadow: 0 10px 20px rgba(165, 143, 143, 0.2);
         } 
         #display{ 
            width: 100%;
@@ -24,8 +24,8 @@ body{  text-align: center;
                 margin-bottom: 10px; 
                  padding: 15px; 
                   box-sizing: border-box; 
-                   border-radius: 5px;  color: rgb(0, 189, 152);  
-                   background-color: rgb(19, 69, 59); 
+                   border-radius: 5px;  color: rgb(229, 216, 238);  
+                   background-color: rgb(170, 155, 212); 
                     border:none;
                   } 
                   button{ 
@@ -34,8 +34,8 @@ body{  text-align: center;
                      font-size: 20px;
                        margin:2%; 
                         border: none; 
-                         background-color: rgba(0, 139, 112);
-                           color:antiquewhite;  margin:2px
+                         background-color: rgb(188, 110, 240);
+                           color:rgb(231, 206, 228);  margin:2px
                           } 
                           
                           .equal, .zero{  width: calc(50% - 10px);}
